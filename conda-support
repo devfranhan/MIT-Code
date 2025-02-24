@@ -1,0 +1,4 @@
+conda create --name env1
+y
+conda activate env1
+conda deactivate
